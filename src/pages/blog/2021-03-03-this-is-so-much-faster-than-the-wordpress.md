@@ -4,15 +4,9 @@ title: This is so much faster than the WordPress
 date: 2021-03-03T06:05:21.098Z
 description: " Ricky and Jim have both worked on CamperReport.  The site started
   when Jim bought an RV and wanted to start a website to earn more than he’d
-  spent on his RV (goal–completed!).  Jim wrote 35 articles on the site and let
-  it sit for about a year, and by that time it was bringing in 100,000 pageviews
-  per month.  Now, the site has retired full-time RVers writing for it that we
-  hire to build up the site even bigger, and web traffic is SKYROCKETING.  We
-  started a Youtube channel for this niche site with just a few, very poorly
-  produced iPhone videos and some of those videos are now over 500,000 views,
-  which helps drive traffic to this site."
+  spent on his RV (goal–completed!).  "
 featuredpost: true
-featuredimage: /img/trailer-fall-color.jpg
+featuredimage: /img/flavor_wheel.jpg
 ---
 <!--StartFragment-->
 
